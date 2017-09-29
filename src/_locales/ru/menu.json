@@ -1,0 +1,170 @@
+{
+  "background_color_title": {
+    "message": "Цвет фона"
+  },
+  "clear_addressbar_description": {
+    "message": "Автоматическое заполнение адресной строки будет доступно в более поздних версиях Firefox. Для этого требуется изменение Mozilla."
+  },
+  "clear_addressbar_title": {
+    "message": "Очистить адресную строку"
+  },
+  "compat_notice_message": {
+    "message": "New Tab Override был разработан с нуля так называемым WebExtension. Это делает New Tab Override совместимым с Firefox 57 и более поздними версиями. Не все опции предыдущей версии в настоящее время доступны в качестве WebExtension. Как только Mozilla реализует поддержку отсутствующих функций в Firefox, они будут интегрированы в новое обновление New Tab Override."
+  },
+  "compat_notice_title": {
+    "message": "Отсутствуют некоторые опции?"
+  },
+  "default_option_description": {
+    "message": "Чтобы использовать страницу Firefox по умолчанию, откройте about:addons и отключите расширение New Tab Override (удаление не требуется)."
+  },
+  "extension_description": {
+    "message": "New Tab Override возвращает возможность изменения страницы, отображаемой при открытии новой вкладки"
+  },
+  "extension_name": {
+    "message": "New Tab Override"
+  },
+  "feed_published_at": {
+    "message": "Опубликован:"
+  },
+  "feed_read_more": {
+    "message": "Подробнее..."
+  },
+  "feed_title": {
+    "message": "Новости Mozilla"
+  },
+  "focus_website_description": {
+    "message": "Установить фокус на веб-страницу вместо адресной строки"
+  },
+  "focus_website_title": {
+    "message": "Фокус"
+  },
+  "github_link": {
+    "message": "New Tab Override на GitHub"
+  },
+  "github_notice": {
+    "message": "Есть пожелания или хотите сообщить об ошибке? Откройте билет на GitHub:"
+  },
+  "homepage_description": {
+    "message": "Если эта опция включена, Firefox также будет использовать домашнюю страницу в качестве новой вкладки. Вы можете изменить домашнюю страницу, введя about:preferences#general в адресной строке. Поддерживаются только домашние страницы, начинающиеся с http:// или https://. Если настроено несколько домашних страниц, New Tab Override будет использовать первую."
+  },
+  "homepage_future_version_description": {
+    "message": "В Firefox 57 (запланированный выпуск: 14 ноября, 2017) Firefox также сможет автоматически использовать домашнюю страницу в качестве новой вкладки. До тех пор, пожалуйста, выберите опцию "пользовательский URL", чтобы установить страницу вручную."
+  },
+  "introduction_part_one": {
+    "message": "Эта страница предоставлена"
+  },
+  "introduction_part_two": {
+    "message": "Выберите, какую страницу следует открыть в качестве новой вкладки!"
+  },
+  "local_file_delete_confirmation": {
+    "message": "Вы действительно хотите удалить файл из хранилища расширения?"
+  },
+  "local_file_delete_text": {
+    "message": "Удалить существующий файл"
+  },
+  "local_file_description": {
+   "message": "Из-за ограничений Firefox расширения не могут получить доступ к локальным файлам. New Tab Override предоставляет возможность загружать локальные HTML-файлы в хранилище расширения и использовать их в качестве содержимого новой вкладки. Любые URL-адреса и ссылки на изображения, файлы CSS и файлы JavaScript, которые могут быть включены, должны быть доступны через Интернет, так как Firefox не может получить доступ к локальным файлам в системе. В качестве альтернативы, пожалуйста, рассмотрите возможность использования локального веб-сервера, например, через MAMP или XAMPP, с опцией «настраиваемый URL». Это работает без каких-либо ограничений."
+  },
+  "local_file_no_file": {
+    "message": "Вы выбрали параметр «Локальный файл», но не сохранили локальный файл. Сохраните файл в настройках New Tab Override."
+  },
+  "local_file_title": {
+    "message": "Локальный файл"
+  },
+  "local_file_upload": {
+    "message": "Хранить локальный файл"
+  },
+  "new_tab_title": {
+    "message": "Новая вкладка"
+  },
+  "omnibox_command_settings": {
+    "message": "Открыть настройки новой вкладки"
+  },
+  "review_text": {
+    "message": "Тебе нравится расширение? Тогда пожалуйста, оставьте отзыв"
+  },
+  "settings_donate": {
+    "message": "Пожертвование"
+  },
+  "settings_donation_text": {
+    "message": "Пожалуйста, подумайте о пожертвовании, чтобы поддержать продолжение развития этого расширения."
+  },
+  "settings_feed_permission_description": {
+    "message": "Firefox требуется разрешение на чтение канала новостей из soeren-hentzschel.at. Это разрешение можно отменить в любое время."
+  },
+  "settings_feed_permission_needed": {
+    "message": "Чтобы использовать эту функцию, вы должны разрешить Firefox получать доступ к источнику данных."
+  },
+  "settings_feed_permission_revoke_description": {
+    "message": "Firefox требуется разрешение на чтение канала новостей из soeren-hentzschel.at. Вы уже предоставили это разрешение."
+  },
+  "settings_homepage_permission_description": {
+    "message": "Firefox требует вашего разрешения на чтение и изменение настроек браузера. Это разрешение можно отменить в любое время."
+  },
+  "settings_homepage_permission_needed": {
+    "message": "Чтобы использовать эту функцию, вы должны разрешить Firefox читать и изменять настройки браузера."
+  },
+  "settings_homepage_permission_revoke_description": {
+    "message": "Firefox требует вашего разрешения на чтение и изменение настроек браузера. Вы уже предоставили это разрешение."
+  },
+  "settings_main_caption": {
+    "message": "Настройки"
+  },
+  "settings_permission_action": {
+    "message": "Предоставить разрешение"
+  },
+  "settings_permission_revoke_action": {
+    "message": "Отменить разрешение"
+  },
+  "settings_support_caption": {
+    "message": "Поддержка"
+  },
+  "settings_title": {
+    "message": "Новая вкладка - Настройки"
+  },
+  "settings_url_field_placeholder": {
+    "message": "URL-адрес"
+  },
+  "type_options_background_color": {
+    "message": "Цветной фон"
+  },
+  "type_options_custom_url": {
+    "message": "Пользовательский URL"
+  },
+  "type_options_default_home_page": {
+    "message": "Домашняя страница Firefox по умолчанию (about:home)"
+  },
+  "type_options_default_new_tab": {
+    "message": "Новая вкладка Firefox по умолчанию (about:newtab)"
+  },
+  "type_options_empty_page": {
+    "message": "Пустая страница (about:blank)"
+  },
+   "type_options_feed": {
+    "message": "Новости Mozilla (Германия)"
+  },
+  "type_options_homepage": {
+    "message": "Текущая домашняя страница"
+  },
+  "type_options_local_file": {
+    "message": "Локальный файл"
+  },
+  "type_title": {
+    "message": "Опции"
+  },
+  "upgrade_notice_message": {
+    "message": "Пользователям предыдущих версий New Tab Override необходимо перенастроить расширение."
+  },
+  "url_description": {
+    "message": "Введенная здесь веб-страница отображается при открытии новой вкладки. Поддерживаются только URL-адреса, начинающиеся с http:// или https://. Пожалуйста, обратите внимание: Доступ к локальным файлам по URL-адресу больше невозможен из-за ограничений Firefox. Пожалуйста, рассмотрите возможность использования «локальный файл» или локального веб-сервера, например, через MAMP или XAMPP."
+  },
+  "url_title": {
+    "message": "URL-адрес"
+  },
+  "url_validation_default": {
+    "message": "Это недопустимый URL-адрес."
+  },
+  "url_validation_file": {
+    "message": "Доступ к локальным файлам по URL-адресу больше невозможен для расширений."
+  }
+}
